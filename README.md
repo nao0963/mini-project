@@ -1,6 +1,6 @@
 # Vegan Social Platform - `Pulipdang`
 
-🇺🇸 English | [🇰🇷 한국어](../README.ko.md)
+🇺🇸 English | [🇰🇷 한국어](README.ko.md)
 
 A comprehensive vegan community platform that connects vegan enthusiasts through social feeds, cafe reservations, group activities, and community discussions.
 
